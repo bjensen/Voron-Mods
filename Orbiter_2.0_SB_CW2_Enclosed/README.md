@@ -1,7 +1,3 @@
-[![quality_footer_01](https://user-images.githubusercontent.com/74976689/211813069-14bc61b6-7e83-4545-9fdf-7c2d451e0e5c.jpg)](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/)
-
-#### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/).
-
 ## Orbiter 2.0 Stealthburner mount with CW2 shroud, PCB and EBB36 Support
 
 ## Important Note:
@@ -10,7 +6,6 @@
 
 Changed stock parts:
 
-- SB Cover
 - Chain Anchor
 - Cable Cover
 
@@ -73,4 +68,3 @@ Pretty much standard hardware as for the stock Stealthburner
 
 ![1](/Orbiter_2.0_SB_CW2_Enclosed/Images/Orbiter_2.0_SB_CW2_Enclosed__002.jpg)
 
-### Get this mod printed in PCCF from [LayerGURU](https://layerguru.com/product/voron-stealthburner-orbiter-2-0/).
